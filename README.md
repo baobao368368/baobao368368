@@ -8,3 +8,4 @@
 baobao368368/baobao368368 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Check out my address in Scopescan: 0xf26e7325a475c45a7eefad8426a93533f67d9f01
